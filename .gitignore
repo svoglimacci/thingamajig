@@ -6,4 +6,8 @@ src/build
 src/dist
 *.csv
 *.xlsx
-.xml
+*.xml
+*.spec
+build
+dist
+*.xml
