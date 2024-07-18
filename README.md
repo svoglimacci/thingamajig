@@ -1,4 +1,4 @@
-# Julie's thingamajig 🚀
+# 🦝 Julie's thingamajig 🚀
 
 ## Install
 
